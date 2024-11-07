@@ -1,4 +1,21 @@
-# Лабораторная работа 1 - Обзор Google Cloud и исследование ключевых сервисов
+# Лабораторная работа 1 - Обзор Google Cloud и исследование основных сервисов
+University: ITMO University
+
+Faculty: FICT
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024/2025 
+
+Group: U4225
+
+Author: Gyrlin Pavel Mikhailovich
+
+Lab: Lab1
+
+Date of create: 26.10.2024
+
+Date of finished: 28.10.2024
 ## Цель
 Познакомиться с основными возможностями и преимуществами платформы Google Cloud.
 ## Процедура
